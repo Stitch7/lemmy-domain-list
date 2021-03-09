@@ -1,0 +1,35 @@
+[
+    {
+        "url": "lemmy.ml",
+        "description": "Official Lemmy Test Site",
+        "apiVersion": 2,
+        "captcha": {
+            "type": "default"
+        }
+    },
+    {
+        "url": "www.chapo.chat",
+        "description": "Chapo.chat is a leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+        "apiVersion": 1,
+        "captcha": {
+            "type": "hcaptcha",
+            "hcaptcha_sitekey": "3f9156b3-68f7-4928-b3bc-8aec2e44db5c"
+        }
+    },
+    {
+        "url": "lemmy.161.social",
+        "description": "Wir sind klar antifaschistisch, emanzipatorisch, stehen für sexuelle und geschlechtliche Vielfalt (LGBTQIA+) und moderieren dementsprechend.\n\nWir positionieren uns eindeutig gegen Antisemitismus, Klassismus, Rassismus und Sexismus.\n\nAntiintellektualismus, Verschwörungstheorien und Geschichtsrevisionismus wird hier keine Plattform geboten (Ja dazu zählt auch Relativierung).\n\nStrafrechtlich relevante Postings (z.B.: Bekenner:innenschreiben) sind lediglich zu verlinken, nicht auf dieser Seite zu verfassen",
+        "apiVersion": 2,
+        "captcha": {
+            "type": "default"
+        }
+    },
+    {
+        "url": "lemmygrad.ml",
+        "description": "Discussion Community for fellow Marxist-Leninists and other Marxists.",
+        "apiVersion": 2,
+        "captcha": {
+            "type": "default"
+        }
+    }
+]
