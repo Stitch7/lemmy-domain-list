@@ -8,8 +8,8 @@
         }
     },
     {
-        "url": "www.chapo.chat",
-        "description": "Chapo.chat is a leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+        "url": "www.hexbear.net",
+        "description": "Hexbear is a leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
         "apiVersion": 1,
         "captcha": {
             "type": "hcaptcha",
